@@ -1,4 +1,5 @@
-<h1 align="center">Hey there!👋, I'm Sairam Nomula</h1>
+<h1 align="center">Hey there!👋</h1>
+<h2 align="center">I'm Sairam Nomula</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="sairamnomula" /> </p>
 
