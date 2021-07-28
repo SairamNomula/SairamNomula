@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&" alt="sairamnomula" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&" alt="sairamnomula" /></p> -->
