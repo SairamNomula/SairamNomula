@@ -1,11 +1,9 @@
-<h1 align="center">Hey there!👋</h1>
+<h1 align="center">Hey there! <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/Hi.gif" width="32px"> </h1>
 <h2 align="center">I'm Sairam Nomula</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="sairamnomula" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack.**
-
-- 💬 Ask me about **HTML, CSS and Js.**
 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/sairam-nomula-8aa752192/)**
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
