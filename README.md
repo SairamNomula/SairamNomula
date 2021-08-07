@@ -20,4 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
 <a href="https://medium.com/@sairamnomula14/supervised-and-unsupervised-learning-77be1aa2f846"><i> Check out my Recent Blog on Supervised and Unsupervised Learning </i> </a>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&" alt="sairamnomula" /></p> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sairamnomula&theme=tokyonight)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairamnomula&theme=midnight-purple"> </a>
