@@ -19,6 +19,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairamnomula&theme=midnight-purple" /></p> -->
-<a href="https://medium.com/@sairamnomula14/supervised-and-unsupervised-learning-77be1aa2f846"><i> Check out my Recent Blog on Supervised and Unsupervised Learning </i> </a>
+<a href="https://medium.com/@sairamnomula14/cost-function-ccf73d024700"><b> Check out my Recent Blog on Cost Function </b> </a>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&" alt="sairamnomula" /></p> -->
 
