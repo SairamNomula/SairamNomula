@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://github.com/sakshi-choudhary/sakshi-choudhary/blob/master/Hi.gif" width="32px"> </h1>
+<h1 align="center">Hey there! <img src="https://github.com/Hi.gif" width="32px"> </h1>
 <h2 align="center">I'm Sairam Nomula</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="sairamnomula" /> </p>
