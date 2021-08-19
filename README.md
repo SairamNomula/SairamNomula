@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning.**
 - 🔍 Searching for a team to participate in **Hackathons.**
-- kjbafjsav
 
 >I am an undergraduate🎓 looking for opportunities and collabaration in projects related to frontend web development and machine learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
 
