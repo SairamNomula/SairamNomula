@@ -33,12 +33,12 @@
 <a href="https://www.instagram.com/sairam_nomula/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@sairamnomula14" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
 <a href="https://hashnode.com/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a> 
+<a href="https://medium.com/@sairamnomula14" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
 <a href="https://devfolio.co/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=blue alt=devfolio style="margin-bottom: 5px;" />
 </a>
