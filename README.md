@@ -12,12 +12,23 @@
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" />
 <br/>
-
+<a href="mailto:sairamnomula14@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
+</a>
 <a href="https://github.com/SairamNomula" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/sairam-nomula-8aa752192/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.hackerrank.com/RA1911033010021?hr_r=1" target="_blank">
+<img src=https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.qwiklabs.com/public_profiles/fcc34171-5039-422d-ad27-fb4f0670cc79" target="_blank">
+<img src=https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black alt=qwiklabs style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/nomula.sairam.77/" target="_blank">
+<img src=https://img.shields.io/badge/FACEBOOK-1877F2?style=flat&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.instagram.com/sairam_nomula/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
