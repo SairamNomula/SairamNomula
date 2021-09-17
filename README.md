@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/sairam-nomula-8aa752192/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.hackerrank.com/RA1911033010021?hr_r=1" target="_blank">
+<a href="https://www.hackerrank.com/sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/fcc34171-5039-422d-ad27-fb4f0670cc79" target="_blank">
