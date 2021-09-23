@@ -5,7 +5,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="sairamnomula" /> </p>
 
 - 🌱 I’m currently learning **Java.**
-- 🔭 I’m currently working in [Hackathons](https://devfolio.co/@sairamnomula).
+- 👀 I’m looking to collaborate on Github.
+- 🏆 2nd runner up in [HackOdisha](https://hackodisha.xyz).
 - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) & [Medium](https://medium.com/@sairamnomula14).
 
 >I am an undergraduate🎓 looking for opportunities and collabaration in projects related to Web development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
