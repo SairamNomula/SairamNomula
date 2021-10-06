@@ -1,8 +1,8 @@
 <h1 align="center">Hey there! <img src="https://github.com/PtPrashantTripathi/ptprashanttripathi/blob/master/hi.gif?raw=true" width="32px"> </h1>
 
 ### <div align="center"><samp>I'm [Sairam Nomula](https://sairamnomula.netlify.app/), a CSE undergrad.</samp></div>
-
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="sairamnomula" /> </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p>
 
 - 🌱 I’m currently learning **Java.**
 - 👀 I’m looking to collaborate on Github.
@@ -22,17 +22,17 @@
 <a href="https://www.linkedin.com/in/sairam-nomula-8aa752192/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.instagram.com/sairam_nomula/" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.hackerrank.com/sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.qwiklabs.com/public_profiles/fcc34171-5039-422d-ad27-fb4f0670cc79" target="_blank">
+<a href="https://run.qwiklabs.com/public_profiles/84af5dd6-12db-4777-88ce-523bb0287395" target="_blank">
 <img src=https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black alt=qwiklabs style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.facebook.com/nomula.sairam.77/" target="_blank">
 <img src=https://img.shields.io/badge/FACEBOOK-1877F2?style=flat&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/sairam_nomula/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://hashnode.com/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
