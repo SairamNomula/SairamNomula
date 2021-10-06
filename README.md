@@ -25,14 +25,17 @@
 <a href="https://www.instagram.com/sairam_nomula/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="https://www.facebook.com/nomula.sairam.77/" target="_blank">
+<img src=https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
 <a href="https://www.hackerrank.com/sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
 </a>
+<a href="https://trailblazer.me/id/sairamnomula" target="_blank">
+<img src=https://img.shields.io/badge/Trailblazer-2962FF?style=for-the-badge&logo=Trailblazer&logoColor=white alt=Trailblazer style="margin-bottom: 5px;" />
+</a>
 <a href="https://run.qwiklabs.com/public_profiles/84af5dd6-12db-4777-88ce-523bb0287395" target="_blank">
 <img src=https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black alt=qwiklabs style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/nomula.sairam.77/" target="_blank">
-<img src=https://img.shields.io/badge/FACEBOOK-1877F2?style=flat&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
 <a href="https://hashnode.com/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
