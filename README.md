@@ -71,7 +71,7 @@
 <br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairamnomula&theme=midnight-purple" /></p> -->
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairamnomula&theme=midnight-purple" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stat" /></p>
