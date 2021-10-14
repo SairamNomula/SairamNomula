@@ -4,9 +4,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p>
 
-- 🌱 I’m currently learning **Java.**
+<!-- - 🌱 I’m currently learning **Java.** -->
 - 👀 I’m looking to collaborate on Github.
-- 🏆 2nd runner up @Webwiz NIT Rourkela [HackOdisha](https://hackodisha.xyz).
+- 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
 - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) & [Medium](https://medium.com/@sairamnomula14).
 
 >I am an undergraduate🎓 looking for opportunities and collabaration in projects related to Web development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
@@ -75,12 +75,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
 <!--  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sairamnomula&theme=midnight-purple" /></p> -->
 
+
+<a href="https://oop-in-python.hashnode.dev/oop-in-python"><b> Check out my recent Blog on OOP in Python!</b></a>
+<br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p>
 <p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stat" /></p>
 
 <br/>
-<a href="https://oop-in-python.hashnode.dev/oop-in-python"><b> Check out my recent Blog on OOP in Python!</b></a>
-<br/>
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
