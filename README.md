@@ -4,12 +4,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p>
 
-- 🌱 I’m currently learning **Java.**
+<!-- - 🌱 I’m currently learning **Java.** -->
 - 👀 I’m looking to collaborate on Github.
 - 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
 - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) & [Medium](https://medium.com/@sairamnomula14).
 
 >I am an undergraduate🎓 looking for opportunities and collabaration in projects related to Web development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
+
+<!-- <div align="center"><table>
+  <tr>
+    <td>You are visitor #</td>
+    <td><img src="https://profile-counter.glitch.me/SairamNomula/count.svg" alt="vistor count" height="20" /></td>
+  </tr>
+</table>
+</div> -->
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" />
 <br/>
@@ -45,6 +53,9 @@
 </a>
 <a href="https://devfolio.co/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=blue alt=devfolio style="margin-bottom: 5px;" />
+</a>
+<a href="https://dev.to/sairamnomula" target="_blank">
+<img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=DEV style="margin-bottom: 5px;" />
 </a>
 <br/>
 
