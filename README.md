@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p>
 
-<!-- - 🌱 I’m currently learning **Java.** -->
+- 🌱 I’m currently learning **Java.**
 - 👀 I’m looking to collaborate on Github.
 - 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
 - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) & [Medium](https://medium.com/@sairamnomula14).
