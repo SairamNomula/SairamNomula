@@ -9,15 +9,7 @@
 - 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
 - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) & [Medium](https://medium.com/@sairamnomula14).
 
->I am an undergraduate🎓 looking for opportunities and collabaration in projects related to Web development. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.
-
-<!-- <div align="center"><table>
-  <tr>
-    <td>You are visitor #</td>
-    <td><img src="https://profile-counter.glitch.me/SairamNomula/count.svg" alt="vistor count" height="20" /></td>
-  </tr>
-</table>
-</div> -->
+>I am an undergraduate and a passionate learner who's always willing to learn and work across technologies and domains. I am looking for opportunities and collaboration in projects related to Web development. 
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" />
 <br/>
