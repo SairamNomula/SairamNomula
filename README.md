@@ -79,9 +79,9 @@
   <summary><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Blogs: <i>Click to view</i> </summary>
   
 - [OOP in Python](https://oop-in-python.hashnode.dev/oop-in-python) <br/>
-<!-- - [Supervised and Unsupervised Learning](https://medium.com/@sairamnomula14/supervised-and-unsupervised-learning-77be1aa2f846) <br/>
-- [Cost Function](https://medium.com/@sairamnomula14/cost-function-ccf73d024700) <br/>
-- [Gradient Descent](https://medium.com/@sairamnomula14/gradient-descent-da6491e069ce) <br/> -->
+<!-- - [Supervised and Unsupervised Learning](https://hashnode.com/post/supervised-and-unsupervised-learning-ckta4g5kp01yl6gs1busqfbni) <br/>
+- [Cost Function](https://hashnode.com/post/cost-function-ckw0ehn7i00s80as1hopf8k8k) <br/>
+- [Gradient Descent](https://hashnode.com/post/gradient-descent-ckw0ewd5f00xo0as10hy2971i) <br/> -->
 </details>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
