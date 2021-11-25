@@ -76,12 +76,12 @@
 <br/>
 
 <details>
-  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Blogs: <i>Click to view</i> </summary>
+  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Blogs: Click to view </summary>
   
 - [OOP in Python](https://oop-in-python.hashnode.dev/oop-in-python) <br/>
 - [Supervised and Unsupervised Learning](https://hashnode.com/post/supervised-and-unsupervised-learning-ckta4g5kp01yl6gs1busqfbni) <br/>
 - [Cost Function](https://hashnode.com/post/cost-function-ckw0ehn7i00s80as1hopf8k8k) <br/>
-<!-- - [Gradient Descent](https://hashnode.com/post/gradient-descent-ckw0ewd5f00xo0as10hy2971i) <br/> -->
+- [Gradient Descent](https://hashnode.com/post/gradient-descent-ckw0ewd5f00xo0as10hy2971i) <br/>
 </details>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
@@ -89,7 +89,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p>
-<p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stat" /></p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stats" /></p>
 
 <br/>
 <!-- 
