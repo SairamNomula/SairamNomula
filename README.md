@@ -7,7 +7,7 @@
 <!-- - 🌱 I’m currently learning **Java.** -->
 - 👀 I’m looking to collaborate on Github.
 - 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
-- 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) & [Medium](https://medium.com/@sairamnomula14).
+- 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula)
 
 >I am an undergraduate and a passionate learner who's always willing to learn and work across technologies and domains. I am looking for opportunities and collaboration in projects related to Web development. 
 
@@ -40,9 +40,9 @@
 <a href="https://hashnode.com/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a> 
-<a href="https://medium.com/@sairamnomula14" target="_blank">
+<!-- <a href="https://medium.com/@sairamnomula14" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://devfolio.co/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=blue alt=devfolio style="margin-bottom: 5px;" />
 </a>
