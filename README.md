@@ -78,7 +78,7 @@
 <br/>
 
 <details>
-  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Blogs: Click to view </summary>
+  <summary><img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/> Click to view my blogs</summary>
   
 - [OOP in Python](https://oop-in-python.hashnode.dev/oop-in-python) <br/>
 - [Supervised and Unsupervised Learning](https://hashnode.com/post/supervised-and-unsupervised-learning-ckta4g5kp01yl6gs1busqfbni) <br/>
