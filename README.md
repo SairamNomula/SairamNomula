@@ -4,12 +4,14 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p>
 
+>I am an undergraduate and a passionate learner and always willing to learn and work across technologies and domains. 
+<!-- >I am looking for opportunities and collaboration in projects related to Web development.  -->
+
 <!-- - 🌱 I’m currently learning **Java.** -->
 - 👀 I’m looking to collaborate on Github.
 - 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
 - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula)
 
->I am an undergraduate and a passionate learner who's always willing to learn and work across technologies and domains. I am looking for opportunities and collaboration in projects related to Web development. 
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" />
 <br/>
