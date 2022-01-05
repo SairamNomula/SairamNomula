@@ -96,8 +96,7 @@
 <p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stats" /></p>
 
 <br/>
-<!-- 
-![Metrics](https://metrics.lecoq.io/SairamNomula?template=classic&base.header=0&base.community=0&base.metadata=0&languages=1&lines=1&languages.ignored=html%2C%20css&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta) -->
+
 
 <img align="right" alt="Spotify" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
