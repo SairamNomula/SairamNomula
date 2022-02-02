@@ -10,7 +10,7 @@
 <!-- - 🌱 I’m currently learning **Java.** -->
 - 👀 I’m looking to collaborate on Github.
 - 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
-- 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula)
+<!-- - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) -->
 
 
 <img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" />
