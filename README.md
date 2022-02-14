@@ -9,7 +9,7 @@
 
 <!-- - 🌱 I’m currently learning **Java.** -->
 - 👀 I’m looking to collaborate on Github.
-- 🏆 2nd runner up @[Webwiz](https://github.com/Webwiznitr) NIT Rourkela [HackOdisha](https://hackodisha.xyz).
+- 🏆 Overall 3rd Place at [HackOdisha](https://hackodisha.xyz) and [PsychHack](https://psych-hack.tech/).
 <!-- - 📌 Top 10 @Postman API Fest'22 -->
 <!-- - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) -->
 
