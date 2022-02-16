@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! <img src="https://github.com/PtPrashantTripathi/ptprashanttripathi/blob/master/hi.gif?raw=true" width="32px"> </h1>
+<h1 align="center">Hey there! <img src="https://github.com/SairamNomula/SairamNomula/blob/main/Hi.gif" width="32px"> </h1>
 
 ### <div align="center"><samp>I'm [Sairam Nomula](https://sairamnomula.netlify.app/), a CSE undergrad.</samp></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
