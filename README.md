@@ -1,4 +1,4 @@
-![](https://github.com/SairamNomula/SairamNomula/blob/main/Banner.png)
+<!-- ![](https://github.com/SairamNomula/SairamNomula/blob/main/Banner.png) -->
 <h1 align="center">Hey there! <img src="https://github.com/SairamNomula/SairamNomula/blob/main/Hi.gif" width="32px"> </h1>
 
 ### <div align="center"><samp>I'm [Sairam Nomula](https://sairamnomula.netlify.app/), a CSE undergrad.</samp></div>
