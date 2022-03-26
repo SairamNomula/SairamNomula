@@ -49,9 +49,9 @@
 <a href="https://devfolio.co/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=blue alt=devfolio style="margin-bottom: 5px;" />
 </a>
-<!-- <a href="https://dev.to/sairamnomula" target="_blank">
+<a href="https://dev.to/sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=DEV style="margin-bottom: 5px;" />
-</a> -->
+</a>
 <br/>
 
 ## Languages & Tools
