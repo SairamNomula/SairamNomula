@@ -14,8 +14,8 @@
 - 🎖 Top 10 at [Postman API Fest'22](https://blog.postman.com/highlights-of-api-fest-2022/).
 <!-- - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) -->
 
-<img align="right" height="270px" alt="GIF" src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" />
-<br/>
+<!-- <img src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" align="right" height="250px" alt="GIF"/> -->
+
 <a href="mailto:sairamnomula14@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white alt=mail style="margin-bottom: 5px;" />
 </a>
