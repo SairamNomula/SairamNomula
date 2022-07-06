@@ -10,7 +10,7 @@
 >I am an undergraduate and a passionate learner and always willing to learn and work across technologies and domains. 
 <!-- >I am looking for opportunities and collaboration in projects related to Web development.  -->
 
-<!-- - 🌱 I’m currently learning **Java.** -->
+<!-- - 🌱 I’m currently learning **Datastructures.** -->
 - 👀 I’m looking to collaborate on Github.
 - 🏆 Overall 3rd Place at [HackOdisha](https://hackodisha.xyz) and [PsychHack](https://psych-hack.tech/).
 - 🎖 Top 10 at [Postman API Fest'22](https://blog.postman.com/highlights-of-api-fest-2022/).
