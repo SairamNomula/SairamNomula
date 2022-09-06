@@ -12,7 +12,8 @@
 
 <!-- - 🌱 I’m currently learning **Datastructures.** -->
 - 👀 I’m looking to collaborate on Github.
-- 🏆 Overall 3rd Place at [HackOdisha](https://hackodisha.xyz) and [PsychHack](https://psych-hack.tech/).
+- 🏆 Overall 3rd Place at [HackOdisha 2021](https://hackodisha.xyz).
+- 🏆 Overall 3rd Place at [PsychHack](https://psych-hack.tech/).
 - 🎖 Top 10 at [Postman API Fest'22](https://blog.postman.com/highlights-of-api-fest-2022/).
 <!-- - 📝 I started posting my articles at [Hashnode](https://hashnode.com/@sairamnomula) -->
 
