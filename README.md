@@ -97,7 +97,6 @@
 
 <br/>
 
-<!-- <img align="right" alt="Spotify" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31cosv3ptjsyxavvzjjtpun6hkdi)
 <br> -->
