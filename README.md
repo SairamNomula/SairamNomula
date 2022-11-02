@@ -89,9 +89,13 @@
 - [Gradient Descent](https://hashnode.com/post/gradient-descent-ckw0ewd5f00xo0as10hy2971i) <br/>
 </details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
+| GitHub Stats |  Streak Stats |
+|----------------------------------|----------------------------|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" />| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p> -->
+
 <p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stats" /></p>
 
 <br/>
