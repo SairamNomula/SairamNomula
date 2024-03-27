@@ -6,14 +6,14 @@
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p> -->
 <p align="right"><img src="https://github.com/SairamNomula/SairamNomula/blob/main/Mario.gif" width="22px"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat"  alt="visitors" /> </p>
 
-<!-- I am an undergrad with a passion for learning and a willingness to learn and collaborate across technologies and topics. -->
+<!-- I am a grad with a passion for learning and a willingness to learn and collaborate across technologies and topics. -->
 
 <!-- - 🌱 I’m currently learning **Datastructures.** -->
 - 👀 I’m looking to collaborate on Github.
 - 🏆 Overall 3rd Place at [HackOdisha 2021](https://hackodisha.xyz).
 - 🏆 Overall 3rd Place at [PsychHack](https://psych-hack.tech/).
 - 🎖 Top 10 at [Postman API Fest'22](https://blog.postman.com/highlights-of-api-fest-2022/).
-
+- ✍🏽 Publication: [Diadisc: A Machine Learning Approach for Classification and Prediction of Diabetes Mellitus](https://ieeexplore.ieee.org/document/10452633).
 <!-- <img src="https://raw.githubusercontent.com/jayeshmann/jayeshmann/main/code.gif" align="right" height="250px" alt="GIF"/> -->
 
 <a href="mailto:sairamnomula14@gmail.com" target="_blank">
