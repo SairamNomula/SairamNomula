@@ -28,9 +28,9 @@
 <a href="https://www.instagram.com/sairam_nomula/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=darkpink alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/nomula.sairam.77/" target="_blank">
+<!-- <a href="https://www.facebook.com/nomula.sairam.77/" target="_blank">
 <img src=https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=Facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://www.hackerrank.com/sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black alt=hackerrank style="margin-bottom: 5px;" />
 </a>
@@ -49,9 +49,9 @@
 <a href="https://devfolio.co/@sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/Devfolio-2962FF?style=for-the-badge&logo=devfolio&logoColor=blue alt=devfolio style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/sairamnomula" target="_blank">
+<!-- <a href="https://dev.to/sairamnomula" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=DEV style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <br/>
 
 ## Languages & Tools
