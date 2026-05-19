@@ -1,13 +1,12 @@
 <!-- ![](https://github.com/SairamNomula/SairamNomula/blob/main/Banner.png) -->
 <h1 align="center">Hey there! <img src="https://github.com/SairamNomula/SairamNomula/blob/main/Hi.gif" width="32px"> </h1>
 
-### <div align="center"><samp>I'm [Sairam Nomula](https://sairamnomula.netlify.app/), a Graduate.</samp></div>
+### <div align="center"><samp>I'm [Sairam Nomula](https://sairamnomula.netlify.app/), an AI Software Engineer.</samp></div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat" alt="visitors" /> </p> -->
 <p align="right"><img src="https://github.com/SairamNomula/SairamNomula/blob/main/Mario.gif" width="22px"> <img src="https://komarev.com/ghpvc/?username=sairamnomula&label=Profile%20views&color=0e75b6&style=flat"  alt="visitors" /> </p>
 
 <!-- - 🌱 I’m currently learning **Datastructures.** -->
-- 👀 I’m looking to collaborate on Github.
 - 🏆 Overall 3rd Place at [HackOdisha 2021](https://hackodisha.xyz).
 - 🏆 Overall 3rd Place at [PsychHack](https://psych-hack.tech/).
 - 🎖 Top 10 at [Postman API Fest'22](https://blog.postman.com/highlights-of-api-fest-2022/).
@@ -89,14 +88,15 @@
 - [Gradient Descent](https://hashnode.com/post/gradient-descent-ckw0ewd5f00xo0as10hy2971i) <br/>
 </details>
 
-| GitHub Stats |  Streak Stats |
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p>
+
+<!-- | GitHub Stats |  Streak Stats |
 |----------------------------------|----------------------------|
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" />| <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" />
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sairamnomula&show_icons=true&theme=tokyonight" alt="sairamnomula" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairamnomula&theme=dark" alt="streakstat" /></p> -->
 
-<!-- <p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stats" /></p> -->
+
+<p><img src="https://activity-graph.herokuapp.com/graph?username=sairamnomula&theme=github" alt="graph stats" /></p> -->
 
 <br/>
 
